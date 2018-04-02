@@ -30,7 +30,6 @@ stage {
 .button, .notification-banner .notification-button,
 .notification-banner:hover .notification-button,
 .notification-banner:focus .notification-button, .hotplug-notification-item {
-  text-shadow: 0 1px rgba(255, 255, 255, 0);
   color: #5c616c;
   background-color: #fbfbfc;
   border: 1px solid #cfd6e6;
@@ -605,7 +604,7 @@ StScrollBar {
   padding: 12px; }
 
 .workspace-switcher-container {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(44, 42, 53, 0.8);
   border: none;
   color: black;
   border-radius: 3px;
